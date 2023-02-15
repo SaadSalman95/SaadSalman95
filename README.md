@@ -1,4 +1,4 @@
-<h3 align="center"> Hello World 👋 I am Saad Salman</h3>
+<h2 align="center"> Hello World 👋 I am Saad Salman</h2>
 
 <p align="center">Software Engineer from Pakistan who is always passionate to learn new things!</p>
 
