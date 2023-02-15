@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3> Technologies I work in: </h3>
-  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+  <img src="https://myoctocat.com/assets/images/base-octocat.svg">
 
 </div>
 
