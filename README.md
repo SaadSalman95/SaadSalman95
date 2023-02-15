@@ -2,6 +2,11 @@
 
 <p align="center">Software Engineer from Pakistan who is always passionate to learn new things!</p>
 
+<div align="center">
+  <h3> Technologies I work on: </h3>
+</div>
+
+
 <!--
 **SaadSalman95/SaadSalman95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
