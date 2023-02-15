@@ -3,7 +3,8 @@
 <p align="center">Software Engineer from Pakistan who is always passionate to learn new things!</p>
 
 <div align="center">
-  <h3> Technologies I work in: </h3>
+  <h2> Technologies I work in: </h2>
+	<br>
   <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
